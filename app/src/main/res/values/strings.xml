@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chen_Wang</string>
+    <string name="userid">User ID  </string>
+    <string name="date">Date YYYY/MM/DD</string>
+    <string name="time">Time HH:MM</string>
+    <string name="sr">Systolic Reading:</string>
+    <string name="dr">Diastolic Reading:</string>
+    <string name="condition">Condition:</string>
+    <string name="btnAddTask">Add Reading</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+</resources>
